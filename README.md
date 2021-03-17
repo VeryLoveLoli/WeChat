@@ -1,5 +1,7 @@
 # WeChat
 
-A description of this package.
+微信SDK SwiftPackage
 
-需添加 `libc++.tbd`
+在 `Link Binary With Libraries` 添加 `libc++.tbd`
+
+在 `Other Linker Flags` 添加 `-ObjC`、`-all_load`或`-force_load` 
