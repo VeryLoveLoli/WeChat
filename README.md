@@ -1,6 +1,6 @@
 # WeChat
 
-微信 1.8.9 SDK XCFramework SwiftPackage
+微信 1.9.9 SDK XCFramework SwiftPackage
 
 ### 工程引用
 在 `Link Binary With Libraries` 添加 `libc++.tbd`

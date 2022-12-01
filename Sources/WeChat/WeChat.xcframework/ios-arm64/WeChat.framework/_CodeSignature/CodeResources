@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/WXApi.h</key>
 		<data>
-		yhyhQCZ28S1uFYNuQDCOLeG1too=
+		NsLD8TAIt0f/BzhxKnNRtWKbFOg=
 		</data>
 		<key>Headers/WXApiObject.h</key>
 		<data>
-		v3Q8pONa9BkJ0DGsuK65mKyVFBg=
+		HfUYTwR2YNyehWEvBBBhFZ9PIYU=
 		</data>
 		<key>Headers/WeChat.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vaG2dTS1ntbybyyu+cdhPLNuQzA=
+		wMaTfJ5H8We+omVZnAURcsrGxrY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,22 +35,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yhyhQCZ28S1uFYNuQDCOLeG1too=
+			NsLD8TAIt0f/BzhxKnNRtWKbFOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			lbMBokLsej3zvyOxVx13JjEA+tosVI/7HkOywzvQsTw=
+			Ek8V0Q/s4l8lF6xVqC2N0XRXvzx56QGn5xDUDmlod48=
 			</data>
 		</dict>
 		<key>Headers/WXApiObject.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v3Q8pONa9BkJ0DGsuK65mKyVFBg=
+			HfUYTwR2YNyehWEvBBBhFZ9PIYU=
 			</data>
 			<key>hash2</key>
 			<data>
-			OmmlnJa7EBPPdRHwwmIrPUhNQ9rMy7G846JAc6xmNeQ=
+			AFNvqlbFbflYc6SIrt7bqmo60jPhJ/piPmat6jDO3k0=
 			</data>
 		</dict>
 		<key>Headers/WeChat.h</key>

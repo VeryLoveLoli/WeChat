@@ -1,0 +1,6 @@
+framework module WeChat {
+  umbrella header "WeChat.h"
+
+  export *
+  module * { export * }
+}
